@@ -1,0 +1,1 @@
+Simply Hello World Flask app using uwsgi and nginx to run on AWS EC2.
